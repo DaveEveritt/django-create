@@ -3,8 +3,8 @@
 """Creates a new Django project in a specified location.
 
 Place this script somewhere handy and run with: python django_start.py
-Either add the path to your Django projects path in 'project_dir', or 
-leave blank for a prompt to your Django project location.
+Either add the path to your Django projects to the 'project_dir' 
+variable, or leave blank for a prompt to your Django project location.
 """
 
 import os
