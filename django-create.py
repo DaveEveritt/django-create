@@ -9,7 +9,8 @@ variable, or leave blank for a prompt to your Django project location.
 
 import os
 
-project_dir = "/Users/deveritt/djangocode"
+"""Add path to your Django project(s) here or leave blank for prompt."""
+project_dir = ""
 
 """Creates new Django project only if user has entered 'y'."""
 def make_project(*args):
