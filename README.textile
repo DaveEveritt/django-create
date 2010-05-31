@@ -2,7 +2,7 @@ h2. Django-create
 
 p. A (barely-necessary but handy) shortcut for creating Django projects in an existing location. Made because I just wanted to have to think less.
 
-p. Place this script somewhere handy and run it with: ./django_start.py (or python django_start.py).
+p. Place this script somewhere handy and run it with: ./django-create.py (or python django-create.py).
 
 p. Either add the path to your Django projects to the 'project_dir' variable towards the top, or leave blank for a prompt to enter your Django project location, which must exist.
 
@@ -10,7 +10,7 @@ h3. To do
 
 # Have an option to create a Django app in an existing project folder.
 
-h3. The dream list
+h3. To do
 
 # Prompt for and add default values to settings.py
-# Move (cd) to the newly-created project folder (rewrite as a .sh script)
+# Move (cd) to the newly-created project folder (or rewrite as a shell script)
